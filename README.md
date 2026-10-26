@@ -1,3 +1,6 @@
+
+![PySpark ETL Tests](https://github.com/aleksandrchepinoga18/defi-risk-pyspark-etl/actions/workflows/tests.yml/badge.svg)
+
 # DeFi Risk Scoring — PySpark ETL Pipeline
 
 Production-style data processing pipeline for DeFi wallet risk scoring, built with Apache Spark, Python, Parquet and Docker.
